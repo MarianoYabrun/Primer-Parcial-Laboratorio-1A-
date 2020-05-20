@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589980729 source:c:\users\maria\onedrive\escritorio\primer parcial lab\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1589985101 c:\users\maria\onedrive\escritorio\primer parcial lab\funciones.h
+
+1589986750 source:c:\users\maria\onedrive\escritorio\primer parcial lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
